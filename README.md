@@ -10,5 +10,5 @@ Materiales y Recursos para la asignatura MAPE04 "Análisis Matemático y Proceso
 
 [Geometric and Topological Data Analysis](http://cs233.stanford.edu/). 
 Prof. *Leonidas G. Guibas*. <br>
-[Introduction to Machine Learning](https://www.eecs189.org/syllabus/)
-Berkely University. <br>
+[Introduction to Machine Learning](https://www.eecs189.org/syllabus/).
+Berkeley University. <br>
