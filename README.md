@@ -14,3 +14,4 @@ Materiales y Recursos para la asignatura MAPE04 "Análisis Matemático y Proceso
 Prof. *Leonidas G. Guibas*. <br>
 [Introduction to Machine Learning](https://www.eecs189.org/syllabus/).
 Berkeley University. <br>
+[Applied Multivariate Statistical Analysis](https://online.stat.psu.edu/stat505/)
