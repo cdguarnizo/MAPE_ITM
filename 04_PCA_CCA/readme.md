@@ -4,6 +4,6 @@
 
 # Blogs
 [PCA and SVD explained with numpy](https://towardsdatascience.com/pca-and-svd-explained-with-numpy-5d13b0d2a4d8) <br>
-
+[Model Selection with PPCA and Factor Analysis](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_vs_fa_model_selection.html) <br>
 # Articulos
 N. Lawrence. [Probabilistic Non-linear Principal Component Analysis with Gaussian Process Latent Variable Models](http://jmlr.csail.mit.edu/papers/volume6/lawrence05a/lawrence05a.pdf)
