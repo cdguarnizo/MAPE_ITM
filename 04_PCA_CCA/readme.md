@@ -3,7 +3,7 @@
 [Principal Component Analysis: Review](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb) <br>
 [Principal Component Analysis: Clustering](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Clustering-Dimensionality-Reduction/Principal%20Component%20Analysis.ipynb)
 
-#Notebooks CCA
+# Notebooks CCA
 [Climate Variability](https://github.com/royalosyin/Python-Practical-Application-on-Climate-Variability-Studies/blob/master/ex29-Identify%20Patterns%20in%20the%20Coupled%20Fields%20of%20SLP%20and%20SST%20through%20Canonical%20Correlation%20Analysis.ipynb)
 
 # Blogs
