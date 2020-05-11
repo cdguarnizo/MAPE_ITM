@@ -1,3 +1,7 @@
+# Notebooks Sklearn
+[Manifold Learning](https://scikit-learn.org/stable/modules/manifold.html) <br>
+[Decomposing signals in components (matrix factorization problems)](https://scikit-learn.org/stable/modules/decomposition.html)
+
 # Notebooks PCA
 [PCA con numpy](https://github.com/hammadshaikhha/Math-of-Machine-Learning-Course-by-Siraj/blob/master/Principal%20Component%20Analysis/Principal%20Component%20Analysis.ipynb) <br>
 [Principal Component Analysis: Review](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb) <br>
