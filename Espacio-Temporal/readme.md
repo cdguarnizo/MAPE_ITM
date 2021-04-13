@@ -1,7 +1,7 @@
 # Procesos Gaussianos
 
 [Spatiotemporal Prediction of Ambulance Demand using Gaussian Process Regression](https://arxiv.org/pdf/1806.10873.pdf) <br>
-
+[Tipos de Kernels](https://www.cs.toronto.edu/~duvenaud/cookbook/) <br>
 
 # Tutoriales
 
