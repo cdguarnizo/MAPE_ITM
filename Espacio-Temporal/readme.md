@@ -7,6 +7,7 @@
 
 [Visualizing Spatial Data with GeoJSON heatmaps](https://towardsdatascience.com/visualizing-spatial-data-with-geojson-heatmaps-1fbe2063ab86) <br>
 [Working with Spatial Point Data](https://zia207.github.io/geospatial-python.io/lesson_07_working%20with%20point%20data.html) <br>
+[SciPy Inteporlate](http://library.isr.ist.utl.pt/docs/scipy/tutorial/interpolate.html) <br>
 
 # Codigos
 
