@@ -16,5 +16,5 @@
 [Deep Spatio-Temporal Neural Network](https://github.com/oywtece/dstn) <br>
 
 # Notebooks
-[GeostatsGuy Notebooks](https://github.com/GeostatsGuy/PythonNumericalDemos)
+[GeostatsGuy Notebooks](https://github.com/GeostatsGuy/PythonNumericalDemos)<br>
 [Analisis de Calidad del Aire PM2.5 Medellin](https://github.com/alexbonella/Calidad-del-Aire-Medellin)
