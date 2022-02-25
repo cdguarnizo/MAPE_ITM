@@ -16,3 +16,6 @@ Prof. *Leonidas G. Guibas*. <br>
 Berkeley University. <br>
 [Applied Multivariate Statistical Analysis](https://online.stat.psu.edu/stat505/). <br>
 [Multivariate Analysis, Dimensionality Reduction, and Spectral Methods](http://stat.wharton.upenn.edu/~skakade/courses/stat991_mult/).
+
+## Notebooks
+[Gaussian and MLE](https://github.com/mravanba/comp551-notebooks/blob/master/Gaussian.ipynb)
