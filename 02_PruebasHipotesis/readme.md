@@ -7,4 +7,4 @@
 [Ed Bullen's Notebooks](https://github.com/edbullen/Hypothesis) <br>
 
 # Cursos Online
-[Pruebas de significancia](https://es.khanacademy.org/math/ap-statistics/tests-significance-ap#idea-significance-tests) <br>
+[Pruebas de significancia - Khan Academy](https://es.khanacademy.org/math/ap-statistics/tests-significance-ap#idea-significance-tests) <br>
