@@ -1,6 +1,6 @@
 # Blogs y paginas recomendadas
 
-[Hypothesis testing in machine learning using Python](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce)
+[Hypothesis testing in machine learning using Python](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce) <br>
 [Basics of Hypothesis Testing - Libretexts](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistics_Using_Technology_(Kozak)/07%3A_One-Sample_Inference/7.01%3A_Basics_of_Hypothesis_Testing) <br>
 
 # Notebooks sobre Pruebas de Hipotesis univariadas
