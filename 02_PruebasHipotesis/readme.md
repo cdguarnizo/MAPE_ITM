@@ -4,4 +4,7 @@
 
 # Notebooks sobre Pruebas de Hipotesis univariadas
 
-[Ed Bullen's Notebooks](https://github.com/edbullen/Hypothesis)
+[Ed Bullen's Notebooks](https://github.com/edbullen/Hypothesis) <br>
+
+# Cursos Online
+[Pruebas de significancia](https://es.khanacademy.org/math/ap-statistics/tests-significance-ap#idea-significance-tests) <br>
