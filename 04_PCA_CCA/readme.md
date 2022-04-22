@@ -23,6 +23,7 @@
 
 # Videos
 [Serrano - PCA](https://www.youtube.com/watch?v=AniiwysJ-2Y)
+[Jay Alammar - Inspecting Neural Networks with CCA](https://www.youtube.com/watch?v=u7Dvb_a1D-0)
 
 # Articulos
 N. Lawrence. [Probabilistic Non-linear Principal Component Analysis with Gaussian Process Latent Variable Models](http://jmlr.csail.mit.edu/papers/volume6/lawrence05a/lawrence05a.pdf) <br>
