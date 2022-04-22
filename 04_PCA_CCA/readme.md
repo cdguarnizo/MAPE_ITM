@@ -22,7 +22,7 @@
 [Model Selection with PPCA and Factor Analysis](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_vs_fa_model_selection.html) <br>
 
 # Videos
-[Serrano - PCA](https://www.youtube.com/watch?v=AniiwysJ-2Y)
+[Serrano - PCA](https://www.youtube.com/watch?v=AniiwysJ-2Y) <br>
 [Jay Alammar - Inspecting Neural Networks with CCA](https://www.youtube.com/watch?v=u7Dvb_a1D-0)
 
 # Articulos
