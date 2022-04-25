@@ -24,6 +24,7 @@
 
 ## CCA
 [Getting at Neural Network Learning Dynamics: Paper Summary](https://maddyschiappa.medium.com/svcca-summary-e83a53f7dd68) <br>
+[Multi-view Learning with CCA](http://mogadala.com/multi-view-learning-with-cca-based-approaches-theory-applications-and-implementations/) <br>
 
 # Videos
 [Serrano - PCA](https://www.youtube.com/watch?v=AniiwysJ-2Y) <br>
