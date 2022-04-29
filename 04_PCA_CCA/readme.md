@@ -36,4 +36,6 @@ N. Lawrence. [Probabilistic Non-linear Principal Component Analysis with Gaussia
 C. Guarnizo. [Agrupamiento de impulsos neuronales](https://dialnet.unirioja.es/descarga/articulo/4829300.pdff)
 ## CCA
 [S. Kornblith et al (2019) Similarity of Neural Network Representations Revisited](http://proceedings.mlr.press/v97/kornblith19a/kornblith19a.pdf)<br>
+[Deep Canonical Correlation Analysis](https://proceedings.mlr.press/v28/andrew13.html)<br>
+[Machine Learning Way for Boosting Accuracy in Canonical Correlation Analysis based Frequency Recognition](https://ieeexplore.ieee.org/document/1716744) <br>
 
