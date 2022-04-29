@@ -16,4 +16,4 @@ Prof. *Leonidas G. Guibas*. <br>
 [Introduction to Machine Learning](https://www.eecs189.org/syllabus/).
 Berkeley University. <br>
 [Applied Multivariate Statistical Analysis](https://online.stat.psu.edu/stat505/). <br>
-[Multivariate Analysis, Dimensionality Reduction, and Spectral Methods](http://stat.wharton.upenn.edu/~skakade/courses/stat991_mult/).
+[Multivariate Analysis, Dimensionality Reduction, and Spectral Methods](https://homes.cs.washington.edu/~sham/courses/stat991_mult/index.html).
